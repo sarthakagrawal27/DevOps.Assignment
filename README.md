@@ -1,2 +1,2 @@
-# DevOps.Assignment
-Assignment 1 - Introduction to DevOps
+# FSAD_LearnerWiz
+LearnerWiz Web Application for language learners. Created as a part of BITS FSAD Assignment.
